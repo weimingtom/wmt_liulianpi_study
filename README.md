@@ -23,7 +23,7 @@ endmode
 # dd if=/dev/zero of=/dev/fb0 bs=1920 count=272
 ```
 
-## v3s, mount
+## v3s, mount and umount tf card
 ```
 # mkdir /mnt/SDCARD
 # [ 1367.283998] mmc0: card 0001 removed
@@ -46,3 +46,18 @@ System Volume Information
 ```
 * If echo: mount: mounting /dev/mmcblk0p1 on /mnt/SDCARD failed: Invalid argument
 * Please format it as FAT32
+* umount
+```
+# df -h
+Filesystem                Size      Used Available Use% Mounted on
+/dev/root                 9.9M      3.6M      6.4M  36% /
+devtmpfs                 26.4M         0     26.4M   0% /dev
+tmpfs                    26.9M         0     26.9M   0% /dev/shm
+tmpfs                    26.9M     24.0K     26.8M   0% /tmp
+tmpfs                    26.9M     16.0K     26.9M   0% /run
+/dev/mmcblk0p1           29.1G     64.0K     29.1G   0% /mnt/SDCARD
+# umount /dev/mmcblk0p1
+umount: can't unmount /mnt/SDCARD: Device or resource busy
+# cd
+# umount /mnt/SDCARD
+```
