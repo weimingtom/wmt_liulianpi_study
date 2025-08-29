@@ -9,6 +9,16 @@ My LiuLianPi study
 
 ## v3s, clear screen, 480x272, 1920 == 480 * 4
 ```
-cat /bin/busybox > /dev/fb0
-dd if=/dev/zero of=/dev/fb0 bs=1920 count=272
+# fbset
+
+mode "480x272-0"
+        # D: 0.000 MHz, H: 0.000 kHz, V: 0.000 Hz
+        geometry 480 272 480 272 32
+        timings 0 0 0 0 0 0 0
+        accel true
+        rgba 8/16,8/8,8/0,0/0
+endmode
+
+# cat /bin/busybox > /dev/fb0
+# dd if=/dev/zero of=/dev/fb0 bs=1920 count=272
 ```
