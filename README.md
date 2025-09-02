@@ -72,6 +72,9 @@ umount: can't unmount /mnt/SDCARD: Device or resource busy
 # cd /mnt/SDCARD
 # ./lvgl9_demo
 ```
-* See also https://bbs.aw-ol.com/topic/303/%E5%93%AA%E5%90%92d1%E5%BC%80%E5%8F%91%E6%9D%BF-lvgl7-%E6%BA%90%E7%A0%81%E4%B8%8B%E8%BD%BD-%E5%B8%A6git%E4%BB%93%E5%BA%93/31?lang=zh-CN
+* lvgl9.zip use lvgl/lv_port_linux 2024-08-27 (not sure, but a little large different), see also https://github.com/lvgl/lv_port_linux/tree/b821c2
+* lvgl9.zip use lvgl-9.2.2, see also https://github.com/lvgl/lvgl/releases/tag/v9.2.2
+* https://bbs.aw-ol.com/topic/303/%E5%93%AA%E5%90%92d1%E5%BC%80%E5%8F%91%E6%9D%BF-lvgl7-%E6%BA%90%E7%A0%81%E4%B8%8B%E8%BD%BD-%E5%B8%A6git%E4%BB%93%E5%BA%93/31?lang=zh-CN
 * lv_port_linux_frame_buffer_nezha_d1_hdmi_event3_git.tgz
-* See also https://github.com/weimingtom/wmt_lvgl_study
+* https://github.com/weimingtom/wmt_lvgl_study
+* https://gitee.com/RCSN/lv_port_linux_frame_buffer_mq_d1s
