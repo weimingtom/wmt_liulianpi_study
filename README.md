@@ -7,6 +7,10 @@ My LiuLianPi study
 * v3s: http://doc.liulianpi.cn/web/#/7
 * f1c100s: http://doc.liulianpi.cn/web/#/5
 
+## TODO
+* Adding label v3s and f1c
+* How to run bsd port (?)  
+
 ## v3s, clear screen, 480x272, 1920 == 480 * 4
 ```
 # fbset
