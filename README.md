@@ -61,3 +61,17 @@ umount: can't unmount /mnt/SDCARD: Device or resource busy
 # cd
 # umount /mnt/SDCARD
 ```
+
+## v3s, lvgl9_demo
+* lvgl9_demo, built with lvgl9_v1.zip (repacked from lvgl9.zip from author of liulianpi) and lvgl9.tar.gz (my mod and build, change CC)
+* How to run ? Copy to tf card (formated to FAT32) and insert it into liulianpi (also you can insert it before v3s booting), then run (no need to chmod +x)  
+```
+# mkdir /mnt/SDCARD
+# fdisk -l
+# mount /dev/mmcblk0p1 /mnt/SDCARD
+# cd /mnt/SDCARD
+# ./lvgl9_demo
+```
+* See also https://bbs.aw-ol.com/topic/303/%E5%93%AA%E5%90%92d1%E5%BC%80%E5%8F%91%E6%9D%BF-lvgl7-%E6%BA%90%E7%A0%81%E4%B8%8B%E8%BD%BD-%E5%B8%A6git%E4%BB%93%E5%BA%93/31?lang=zh-CN
+* lv_port_linux_frame_buffer_nezha_d1_hdmi_event3_git.tgz
+* See also https://github.com/weimingtom/wmt_lvgl_study
