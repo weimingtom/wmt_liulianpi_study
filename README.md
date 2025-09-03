@@ -6,6 +6,8 @@ My LiuLianPi study
 * https://github.com/weimingtom/wmt_lvgl_study
 * v3s: http://doc.liulianpi.cn/web/#/7
 * f1c100s: http://doc.liulianpi.cn/web/#/5
+* https://github.com/weimingtom/StudyNotes/blob/main/hometownm/Linux-Studynotes/01_驱动学习/全志Linux芯片/荔枝派Zero/荔枝派zero.md  
+It contains something about funkey and screen configuration.  
 
 ## TODO
 * Adding label v3s and f1c
