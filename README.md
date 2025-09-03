@@ -18,7 +18,7 @@ hsinyuwang_gpsp-main.zip
 
 ## TODO
 * Adding label v3s and f1c
-* How to run bsd port (?)  
+* How to run v3s port of BSD OS (?)  
 
 ## v3s, clear screen, 480x272, 1920 == 480 * 4
 ```
