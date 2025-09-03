@@ -8,6 +8,12 @@ My LiuLianPi study
 * f1c100s: http://doc.liulianpi.cn/web/#/5
 * https://github.com/100askTeam/StudyNotes/blob/main/hometownm/Linux-Studynotes/01_驱动学习/全志Linux芯片/荔枝派Zero/荔枝派zero.md  
 It contains something about funkey and screen configuration.  
+* GBA emulator  
+https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/emulator.md  
+(dead) https://github.com/hsinyuwang/X-Boy  
+https://bbs.aw-ol.com/topic/1679/司徒gpsp游戏机模拟器源码移植到全志v3s-r11等soc-转  
+https://bbs.aw-ol.com/topic/3730/t113-tina-linux-移植-gpsp-模拟器  
+hsinyuwang_gpsp-main.zip  
 
 ## TODO
 * Adding label v3s and f1c
