@@ -14,6 +14,7 @@ https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/emulat
 https://bbs.aw-ol.com/topic/1679/司徒gpsp游戏机模拟器源码移植到全志v3s-r11等soc-转  
 https://bbs.aw-ol.com/topic/3730/t113-tina-linux-移植-gpsp-模拟器  
 hsinyuwang_gpsp-main.zip  
+(TODO) re-opensource hsinyuwang_gpsp-main.zip v3s version (I'm not the author)  
 
 ## TODO
 * Adding label v3s and f1c
