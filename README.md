@@ -16,6 +16,9 @@ https://bbs.aw-ol.com/topic/3730/t113-tina-linux-移植-gpsp-模拟器
 hsinyuwang_gpsp-main.zip  
 (TODO) re-opensource hsinyuwang_gpsp-main.zip v3s version (I'm not the author)  
 
+## Toolchain, v3s
+* gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabihf.tar.xz
+ 
 ## TODO
 * Adding label v3s and f1c
 * How to run v3s port of BSD OS (?)  
