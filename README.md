@@ -94,3 +94,6 @@ umount: can't unmount /mnt/SDCARD: Device or resource busy
 * lv_port_linux_frame_buffer_nezha_d1_hdmi_event3_git.tgz
 * https://github.com/weimingtom/wmt_lvgl_study
 * https://gitee.com/RCSN/lv_port_linux_frame_buffer_mq_d1s
+
+## gpsp_fork  
+* https://github.com/weimingtom/gpsp_fork
