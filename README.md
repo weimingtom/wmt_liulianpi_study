@@ -97,3 +97,9 @@ umount: can't unmount /mnt/SDCARD: Device or resource busy
 
 ## gpsp_fork  
 * https://github.com/weimingtom/gpsp_fork
+
+## infones_fork  
+* https://github.com/weimingtom/infones_fork
+
+## nofrendo_fork  
+* https://github.com/weimingtom/nofrendo_fork
